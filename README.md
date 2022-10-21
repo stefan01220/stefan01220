@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @stefan01220
 - 👀 I’m interested in Open Source Software
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me teams or on Social Media
 
 <!---
